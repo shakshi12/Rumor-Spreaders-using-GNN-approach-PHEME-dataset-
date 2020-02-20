@@ -6,4 +6,5 @@ Rumour Classification Systems has 4 components:
 3. Stance Classification
 4. Rumour Veracity
 
-Tools Used: Python, NLTK, Gensim, t-SNE, PCA
+Tools Used: Anaconda Navigator
+Packages used: NLTK, Gensim, t-SNE, PCA, tensorflow, NetworkX
