@@ -1,4 +1,4 @@
-# Journey-Begins-to-Estonia
+# Tartu-Delhi Collaboration
 
 Rumour Classification Systems has 4 components:
 1. Rumour Detection
