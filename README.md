@@ -1,5 +1,6 @@
 *This repository is linked to this paper - "Identifying Possible Rumor Spreaders on Twitter: A Weak Supervised Learning Approach
 ". The [paper](https://arxiv.org/abs/2010.07647) is accepted at International Joint Conference on Neural Networks (IJCNN) 2021.*
+Please note that the code is still in maintenance state.
 
 **The main objectives of this paper -**
 1. Data Transformation from PHEME rumor tweets to "possible" rumor spreaders.
