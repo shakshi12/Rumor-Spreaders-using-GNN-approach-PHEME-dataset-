@@ -1,4 +1,5 @@
-*This repository is linked to this paper [link](https://arxiv.org/abs/2010.07647) is accepted at International Joint Conference on Neural Networks (IJCNN) 2021.*
+*This repository is linked to this paper - "Identifying Possible Rumor Spreaders on Twitter: A Weak Supervised Learning Approach
+". The paper [link](https://arxiv.org/abs/2010.07647) is accepted at International Joint Conference on Neural Networks (IJCNN) 2021.*
 # Rumor Spreaders Classification
 1. Data Transformation from PHEME rumor tweets to "possible" rumor spreaders.
 2. Classification using Graph Convolutional Network (GCN) approach.
