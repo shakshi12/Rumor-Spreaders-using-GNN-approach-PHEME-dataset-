@@ -1,5 +1,6 @@
+*This paper is accepted at International Joint Conference on Neural Networks (IJCNN) 2021.*
 # Rumor Spreaders Classification
-1. Data Transformation
+1. Data Transformation from PHEME rumor tweets to "possible" rumor spreaders.
 2. Classification using Graph Convolutional Network (GCN) approach.
 
 Tools Used: Anaconda Navigator;
